@@ -1,0 +1,274 @@
+[
+  {
+    "name": "HealthCare",
+    "description": "Pharmacy web app",
+    "isFinished": true,
+    "payment": 10000.00,
+    "startDate": "2017-07-12",
+    "company": {
+      "name": "Phoenix"
+    },
+    "employees": [
+      {
+        "firstName": "Stamat",
+        "lastName": "Petrov",
+        "age": 45
+      },
+      {
+        "firstName": "Hristo",
+        "lastName": "Mytafchiev",
+        "age": 28
+      }
+    ]
+  },
+  {
+    "name": "MMA",
+    "description": "Mixed martial arts club web site",
+    "isFinished": true,
+    "payment": 7000.00,
+    "startDate": "2018-09-21",
+    "company": {
+      "name": "Vallor"
+    },
+    "employees": [
+      {
+        "firstName": "Alex",
+        "lastName": "Rusev",
+        "age": 21
+      },
+      {
+        "firstName": "Nikolay",
+        "lastName": "Mitrev",
+        "age": 34
+      },
+      {
+        "firstName": "Grigor",
+        "lastName": "Vasev",
+        "age": 32
+      }
+    ]
+  },
+  {
+    "name": "DJApp",
+    "description": "Sound system",
+    "isFinished": false,
+    "payment": 25000.00,
+    "startDate": "2017-08-13",
+    "company": {
+      "name": "MusicCo"
+    },
+    "employees": [
+      {
+        "firstName": "Petar",
+        "lastName": "Georgiev",
+        "age": 24
+      },
+      {
+        "firstName": "Anna",
+        "lastName": "Valerieva",
+        "age": 32
+      },
+      {
+        "firstName": "Mihail",
+        "lastName": "Todorov",
+        "age": 18
+      }
+    ]
+  },
+  {
+    "name": "Intel",
+    "description": "Intel new processor",
+    "isFinished": true,
+    "payment": 1500000.00,
+    "startDate": "2016-01-13",
+    "company": {
+      "name": "Tech"
+    },
+    "employees": [
+      {
+        "firstName": "Maria",
+        "lastName": "Hristova",
+        "age": 28
+      },
+      {
+        "firstName": "Ceco",
+        "lastName": "Stanoev",
+        "age": 31
+      }
+    ]
+  },
+  {
+    "name": "Invest",
+    "description": "Credit web site",
+    "isFinished": false,
+    "payment": 15000.00,
+    "startDate": "2019-04-01",
+    "company": {
+      "name": "FutureInvests"
+    },
+    "employees": [
+      {
+        "firstName": "Ivan",
+        "lastName": "Todorov",
+        "age": 31
+      },
+      {
+        "firstName": "Emo",
+        "lastName": "Popov",
+        "age": 26
+      }
+    ]
+  },
+  {
+    "name": "Furniture",
+    "description": "Furniture magazine",
+    "isFinished": true,
+    "payment": 30000.00,
+    "startDate": "2015-10-21",
+    "company": {
+      "name": "DesignGroup"
+    },
+    "employees": [
+      {
+        "firstName": "Todor",
+        "lastName": "Angelov",
+        "age": 19
+      },
+      {
+        "firstName": "Borika",
+        "lastName": "Nikolova",
+        "age": 27
+      }
+    ]
+  },
+  {
+    "name": "Dolby",
+    "description": "HeadSet sound design",
+    "isFinished": false,
+    "payment": 2490000.00,
+    "startDate": "2018-12-27",
+    "company": {
+      "name": "Technologies"
+    },
+    "employees": [
+      {
+        "firstName": "Ivan",
+        "lastName": "Minkov",
+        "age": 47
+      },
+      {
+        "firstName": "Stoyanka",
+        "lastName": "Zlatova",
+        "age": 25
+      },
+      {
+        "firstName": "Boris",
+        "lastName": "Borisov",
+        "age": 19
+      }
+    ]
+  },
+  {
+    "name": "Robocop",
+    "description": "AI robots",
+    "isFinished": false,
+    "payment": 99999.00,
+    "startDate": "2019-05-31",
+    "company": {
+      "name": "MavenLtd"
+    },
+    "employees": [
+      {
+        "firstName": "Mihail",
+        "lastName": "Spasov",
+        "age": 49
+      },
+      {
+        "firstName": "Eli",
+        "lastName": "Ivanova",
+        "age": 24
+      },
+      {
+        "firstName": "Angel",
+        "lastName": "Deyanov",
+        "age": 19
+      }
+    ]
+  },
+  {
+    "name": "GitBuh_Project",
+    "description": "GitBuh repositories improvement",
+    "isFinished": true,
+    "payment": 47899.00,
+    "startDate": "2017-02-05",
+    "company": {
+      "name": "Gitbuh"
+    },
+    "employees": [
+      {
+        "firstName": "Daniel",
+        "lastName": "Zvezdev",
+        "age": 34
+      },
+      {
+        "firstName": "Spas",
+        "lastName": "Spasov",
+        "age": 32
+      },
+      {
+        "firstName": "Kalina",
+        "lastName": "Stoyanova",
+        "age": 29
+      },
+      {
+        "firstName": "Lora",
+        "lastName": "Todorova",
+        "age": 16
+      }
+    ]
+  },
+  {
+    "name": "HoodWars",
+    "description": "Online fighting game",
+    "isFinished": true,
+    "payment": 650000.00,
+    "startDate": "2018-06-11",
+    "company": {
+      "name": "Vallor"
+    },
+    "employees": [
+      {
+        "firstName": "Dobromir",
+        "lastName": "Blagoev",
+        "age": 51
+      },
+      {
+        "firstName": "Milica",
+        "lastName": "Hristova",
+        "age": 21
+      }
+    ]
+  },
+  {
+    "name": "AMD",
+    "description": "Graphic card",
+    "isFinished": true,
+    "payment": 5689900.00,
+    "startDate": "2015-09-16",
+    "company": {
+      "name": "Tech"
+    },
+    "employees": []
+  },
+  {
+    "name": "Apocalypse",
+    "description": "Zombie antidote",
+    "isFinished": false,
+    "payment": 89000000.00,
+    "startDate": "2012-12-12",
+    "company": {
+      "name": "Phoenix"
+    },
+    "employees": []
+  }
+]
